@@ -1,0 +1,112 @@
+[
+    {
+        "year": 2022,
+        "region": "North",
+        "amount": 1500,
+        "customer": "Lorem",
+        "transactions": [
+            {"item": "Apple", "amount": 100},
+            {"item": "Banana", "amount": 200}
+        ]
+    },
+    {
+        "year": 2023,
+        "region": "South",
+        "amount": 1800,
+        "customer": "Ipsum",
+        "transactions": [
+            {"item": "Orange", "amount": 250},
+            {"item": "Grapes", "amount": 180}
+        ]
+    },
+    {
+        "year": 2021,
+        "region": "East",
+        "amount": 1400,
+        "customer": "Dolor",
+        "transactions": [
+            {"item": "Mango", "amount": 300},
+            {"item": "Pineapple", "amount": 120}
+        ]
+    },
+    {
+        "year": 2024,
+        "region": "West",
+        "amount": 2100,
+        "customer": "Amet",
+        "transactions": [
+            {"item": "Kiwi", "amount": 160},
+            {"item": "Papaya", "amount": 240}
+        ]
+    },
+    {
+        "year": 2020,
+        "region": "North",
+        "amount": 1200,
+        "customer": "Consectetur",
+        "transactions": [
+            {"item": "Apple", "amount": 90},
+            {"item": "Watermelon", "amount": 260}
+        ]
+    },
+    {
+        "year": 2023,
+        "region": "South",
+        "amount": 1950,
+        "customer": "Adipiscing",
+        "transactions": [
+            {"item": "Banana", "amount": 210},
+            {"item": "Strawberry", "amount": 310}
+        ]
+    },
+    {
+        "year": 2022,
+        "region": "East",
+        "amount": 1750,
+        "customer": "Elit",
+        "transactions": [
+            {"item": "Blueberry", "amount": 200},
+            {"item": "Guava", "amount": 150}
+        ]
+    },
+    {
+        "year": 2021,
+        "region": "West",
+        "amount": 1600,
+        "customer": "Sed",
+        "transactions": [
+            {"item": "Orange", "amount": 190},
+            {"item": "Mango", "amount": 280}
+        ]
+    },
+    {
+        "year": 2024,
+        "region": "North",
+        "amount": 2250,
+        "customer": "Do",
+        "transactions": [
+            {"item": "Apple", "amount": 130},
+            {"item": "Peach", "amount": 270}
+        ]
+    },
+    {
+        "year": 2020,
+        "region": "South",
+        "amount": 1100,
+        "customer": "Eiusmod",
+        "transactions": [
+            {"item": "Banana", "amount": 150},
+            {"item": "Grapes", "amount": 180}
+        ]
+    },
+    {
+        "year": 2023,
+        "region": "East",
+        "amount": 1900,
+        "customer": "Tempor",
+        "transactions": [
+            {"item": "Pineapple", "amount": 260},
+            {"item": "Apple", "amount": 140}
+        ]
+    }
+]
